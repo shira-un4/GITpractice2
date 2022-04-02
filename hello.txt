@@ -1,2 +1,6 @@
 this is my commit 1
+<<<<<<< HEAD
 this is change is in branch TaskId_1
+=======
+this is my commit for TaskId_2
+>>>>>>> 0bcc8f0 (Branch commit TaskId_2)
